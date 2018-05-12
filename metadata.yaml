@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5267
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Clive
 description: Augustan Reprint Society, publication number 159
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13881#The-Case-of-Mrs.-Clive
 gutenberg_issued: '2004-10-27'
 gutenberg_type: Text
 identifiers:
