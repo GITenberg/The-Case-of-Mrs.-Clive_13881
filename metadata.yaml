@@ -1,0 +1,39 @@
+_repo: The-Case-of-Mrs.-Clive_13881
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Frushell, Richard C.
+    birthdate: 1935
+    gutenberg_agent_id: '37152'
+    url: http://www.gutenberg.org/2009/agents/37152
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clive, Mrs. (Catherine)
+    aliases:
+    - Clive, Kitty
+    - Raftor, Catherine
+    - Clive, Catherine
+    birthdate: 1711
+    deathdate: 1785
+    gutenberg_agent_id: '5267'
+    url: http://www.gutenberg.org/2009/agents/5267
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Clive
+description: Augustan Reprint Society, publication number 159
+gutenberg_issued: '2004-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- England -- London -- History'
+- !lcsh 'Actors -- Salaries, etc. -- England -- London'
+- !lcc 'PN'
+- !lcsh 'Clive, Mrs. (Catherine) 1711-1785'
+title: The Case of Mrs. Clive
+url: http://www.gutenberg.org/ebooks/13881
